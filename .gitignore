@@ -1,0 +1,30 @@
+# Arquivos de compilação
+bin/
+target/
+
+# Configuração do Eclipse
+.classpath
+.project
+.settings/
+
+# Cache do Maven
+.mvn/
+target/
+
+# Arquivos de configuração do IntelliJ
+.idea/
+*.iml
+*.iws
+
+# Logs
+*.log
+
+# Arquivos temporários
+*.swp
+*~
+
+# Arquivos de configuração específicos do sistema operacional
+.DS_Store
+Thumbs.db
+#Configuração do vscode
+.vscode/
