@@ -32,4 +32,8 @@ public class Position {
     public String toString(){
         return  row + ", " + column;
     }
+
+    public Position isThereAnyPossibleMove() {
+        return null;
+    }
 }
